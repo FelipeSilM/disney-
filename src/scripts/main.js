@@ -10,6 +10,8 @@ document.addEventListener('DOMContentLoaded', function(){
     window.addEventListener('scroll', function(){
         const posicaoAtual = window.scrollY
 
+        console.log(posicaoAtual)
+
         if(posicaoAtual < alturaHero){
             ocultaElementosHeader()
         }else{
