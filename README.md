@@ -41,7 +41,7 @@ Veja o resultado através do <a href="https://disney-three-murex.vercel.app/">li
 
 ## O que aprendi
 
-Com o objetivo de praticas mais a estruturação do css, com sass:
+Com o objetivo de praticar mais a estruturação do css, com sass:
 
 - Criar layouts responsivos com sass e a organiza-lo
 - Utilizar a metodologia BEM para estruturar os nomes das classes e utiliza-las junto com o pré-processador  
